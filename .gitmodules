@@ -1,0 +1,12 @@
+[submodule "Ware-Summer"]
+	path = Ware-Summer
+	url = https://github.com/kevinten10/Ware-Summer
+[submodule "Ware-Maibatis"]
+	path = Ware-Maibatis
+	url = https://github.com/kevinten10/Ware-Maibatis
+[submodule "Ware-Redic"]
+	path = Ware-Redic
+	url = https://github.com/kevinten10/Ware-Redic
+[submodule "Ware-IdGenerator"]
+	path = Ware-IdGenerator
+	url = https://github.com/kevinten10/Ware-IdGenerator
