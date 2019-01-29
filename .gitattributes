@@ -5,3 +5,4 @@
 *.sql linguist-language=java
 *.png linguist-language=java
 *.jpg linguist-language=java
+*.md linguist-language=java
