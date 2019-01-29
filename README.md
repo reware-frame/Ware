@@ -1,6 +1,10 @@
 # Ware 框架与中间件
 
-> 开源框架与中间件, 源码解析实现
+> 源码解析与重构：Java框架与中间件的实现
+
+## [加入reware开源](加入reware开源.md)
+
+https://github.com/reware-frame
 
 ## IdGenerator
 
