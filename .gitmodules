@@ -10,9 +10,9 @@
 [submodule "Ware-IdGenerator"]
 	path = Ware-IdGenerator
 	url = https://github.com/kevinten10/Ware-IdGenerator
-[submodule "Ware-Kclient"]
-	path = Ware-Kclient
-	url = https://github.com/kevinten10/Ware-Kclient
 [submodule "Ware-WebServer"]
 	path = Ware-WebServer
 	url = https://github.com/kevinten10/Ware-WebServer
+[submodule "Ware-Kclient"]
+	path = Ware-Kclient
+	url = https://github.com/kevinten10/Ware-Kclient
