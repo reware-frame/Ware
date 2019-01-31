@@ -16,3 +16,6 @@
 [submodule "Ware-Kclient"]
 	path = Ware-Kclient
 	url = https://github.com/kevinten10/Ware-Kclient
+[submodule "Ware-Dbsplit"]
+	path = Ware-Dbsplit
+	url = https://github.com/kevinten10/Ware-Dbsplit
