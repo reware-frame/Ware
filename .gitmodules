@@ -25,3 +25,6 @@
 [submodule "Ware-Qmq"]
 	path = Ware-Qmq
 	url = https://github.com/kevinten10/Ware-Qmq
+[submodule "Ware-Tim"]
+	path = Ware-Tim
+	url = https://github.com/kevinten10/Ware-Tim
