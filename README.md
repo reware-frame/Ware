@@ -29,3 +29,15 @@ Artificial Spring Framework. Spring源码解析实现.
 ## WebServer
 
 Network programming framework source code analysis and implementation. 网络编程框架源码分析与实现. bio & nio & aio. 
+
+## ELasticJob
+
+Elastic-Job is a distributed scheduled job framework, based on Quartz and Zookeeper. Elastic-Job是一个分布式调度解决方案. https://github.com/elasticjob/elastic-job-lite
+
+## Qmq
+
+Qmq is a high-performance message queue. Qmq是高性能的消息队列，确保交易的可靠性. https://github.com/qunarcorp/qmq
+
+## Tim
+
+Tim is a instant messaging system for developer. Tim是一款面向开发者的即时通讯系统. https://github.com/crossoverJie/cim
