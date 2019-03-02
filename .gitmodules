@@ -22,3 +22,6 @@
 [submodule "Ware-ElasticJob"]
 	path = Ware-ElasticJob
 	url = https://github.com/kevinten10/Ware-ElasticJob.git
+[submodule "Ware-Qmq"]
+	path = Ware-Qmq
+	url = https://github.com/kevinten10/Ware-Qmq
