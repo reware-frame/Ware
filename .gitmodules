@@ -19,3 +19,6 @@
 [submodule "Ware-Dbsplit"]
 	path = Ware-Dbsplit
 	url = https://github.com/kevinten10/Ware-Dbsplit
+[submodule "Ware-ElasticJob"]
+	path = Ware-ElasticJob
+	url = https://github.com/kevinten10/Ware-ElasticJob.git
