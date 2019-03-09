@@ -6,6 +6,8 @@
 
 https://github.com/reware-frame
 
+    git submodule add git@github.com:jjz/pod-library.git pod-library
+
 ## IdGenerator
 
 Distributed id generator service. ID产生器，全局唯一、粗略有序、可反解和可制造等特性. https://github.com/cloudatee/vesta-id-generator 
@@ -41,3 +43,7 @@ Qmq is a high-performance message queue. Qmq是高性能的消息队列，确保
 ## Tim
 
 Tim is a instant messaging system for developer. Tim是一款面向开发者的即时通讯系统. https://github.com/crossoverJie/cim
+
+## Dbsplit
+
+Dbsplit is a scalable Spring JdbcTemplate. Dbsplit在JdbcTemplate上增加了分库分表，读写分离和失效转移等功能. https://github.com/cloudatee/dbsplit
