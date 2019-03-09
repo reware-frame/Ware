@@ -28,3 +28,6 @@
 [submodule "Ware-Tim"]
 	path = Ware-Tim
 	url = https://github.com/kevinten10/Ware-Tim
+[submodule "Ware-MqConsumer"]
+	path = Ware-MqConsumer
+	url = https://github.com/kevinten10/Ware-MqConsumer.git
