@@ -31,3 +31,21 @@
 [submodule "Ware-MqConsumer"]
 	path = Ware-MqConsumer
 	url = https://github.com/kevinten10/Ware-MqConsumer.git
+[submodule "Ware-Stream"]
+	path = Ware-Stream
+	url = https://github.com/kevinten10/Ware-Stream.git
+[submodule "Ware-Akka"]
+	path = Ware-Akka
+	url = https://github.com/kevinten10/Ware-Akka
+[submodule "Ware-Playground"]
+	path = Ware-Playground
+	url = https://github.com/kevinten10/Ware-Playground.git
+[submodule "Ware-Tomcat"]
+	path = Ware-Tomcat
+	url = https://github.com/kevinten10/Ware-Tomcat.git
+[submodule "Ware-Hystrix"]
+	path = Ware-Hystrix
+	url = https://github.com/kevinten10/Ware-Hystrix.git
+[submodule "Ware-Reactive"]
+	path = Ware-Reactive
+	url = https://github.com/kevinten10/Ware-Reactive.git
